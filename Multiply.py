@@ -1,5 +1,4 @@
-import Main
 
-def multiply_nums(num1, num2):
-    result = num1 * num2
-    print("The result of multiplying", num1, "and", num2, "is:", result)
+def multiply_nums(a, b):
+    result = a * b
+    print("The result of multiplying", a, "and", b, "is:", result)
