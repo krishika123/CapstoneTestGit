@@ -1,4 +1,4 @@
-import Main.py
+import Main
 
 def multiply_nums(num1, num2):
     result = num1 * num2
