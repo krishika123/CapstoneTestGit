@@ -6,4 +6,4 @@ num2 = float(input("Enter the second number: "))
 
 multiply_nums(num1,num2)
 divide_nums(num1,num2)
-print("hello")
+print("hello!")
